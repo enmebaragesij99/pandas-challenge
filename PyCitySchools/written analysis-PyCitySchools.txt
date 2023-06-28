@@ -1,0 +1,18 @@
+In this Module 4 Challenge we ananlysed the datasets of schools and their students in a local government area initally as a whole
+followed by various increments in relation to schools and student, which included:
+-school summary (School Type,Total Students,Total School Budget,Per Student Budget,Average Maths Score, 
+Average Reading Score, Passing Maths%, Passing Reading%, % Overall Passing)
+-Top and Bottom performing schools (By %Overall Passing)
+-Math and Reading scores by Year
+-Scores (Average Maths Score, Average Reading Score, Passing Maths%, Passing Reading%, % Overall Passing) 
+in terms of school spending(per student)
+-Scores in terms of school size(total students)
+-Scores in terms of school type
+
+Following this anaylsis the most obvious conclusions that were deduced are:
+-Large schools(2000-5000) had noticeably lower passing percentages(maths, reading and overall) 
+than smaller schools(small and medium)
+-There was no form of positive correlation between more spending per student and higher scores,if anything,
+it was quite the opposite as the spending ranges(per student) increased the passing percentages decreased, 
+with the spending range of $645-680 having the lowest passing percentages 
+-Independent schools had noticeably higher passing percentages in comparison to Governement schools
